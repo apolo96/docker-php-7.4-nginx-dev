@@ -8,6 +8,10 @@ The image was created only for running in development environments. ¡ No use th
 
 ## How to use this image
 
+```
+docker pull apolo96/php-7.4-nginx
+```
+
 Run the commands to build and run the Docker image:
 
 ```
