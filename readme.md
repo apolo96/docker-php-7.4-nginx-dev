@@ -1,12 +1,16 @@
 
 # Docker PHP 7.4 Web Environment
 
-Docker image for web development with PHP. Use this to work with the Laravel framework or any dev tool that just your needs. 
+Use this to work with the Laravel framework or any dev tool that just your needs. 
 
 ¡¡¡ IMPORTANT !!! 
 The image was created only for running in development environments. ¡ No use this on Production !
 
 ## How to use this image
+
+Download the image in your local machine
+
+https://hub.docker.com/r/apolo96/php-7.4-nginx
 
 ```
 docker pull apolo96/php-7.4-nginx
